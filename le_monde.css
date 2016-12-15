@@ -6,11 +6,12 @@ h1 {
 }
 
 h4 {
-	margin-left: 3%;
-	margin-top: 9.7%;
+	margin-left	: 11%;
+	margin-top: 10.5%;
 	color: silver;
 	background-color: #860000;
-	font-size: 175%;
+	font-size: 125%;
+	width: 85%;
 }
 header {
 	background-color: black;
@@ -19,7 +20,7 @@ header {
 
 h3 {
 	margin-top: 5%;
-	color: silver;
+	color: #33659b;
 	font-size: 125%;
 	margin-left: 10%;
 
@@ -61,12 +62,9 @@ h3 {
 .image {
 	margin-left: 10%;
 }
-
-.image 2 {
-
-}
-.image 3 {
-	
+.titre {
+	font-size: 90%;
+	margin-left: 10%;
 }
 
 nav ul {        
@@ -157,3 +155,24 @@ p {
 	margin-left: 12%;
 }
 
+.p3 {
+	margin-left: 10%;
+}
+
+li {
+	background-color: white;
+	width: 95%;
+}
+.h3 {
+	font-size: 95%;
+	margin-left: 11%;
+	color: blue;
+}
+
+.hh3 {
+	font-size: 95%;
+}
+
+.pp3 {
+	margin-right: 10%;
+}
