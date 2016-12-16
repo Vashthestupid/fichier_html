@@ -62,6 +62,34 @@ h3 {
 .image {
 	margin-left: 10%;
 }
+#image2 {
+	width: 260px;
+	height: 150px;
+	margin-left: 10%;
+}
+
+#image3 {
+	margin-left: 12%;
+	width: 290px;
+}
+
+#image4 {
+	width: 260px;
+	height: 150px;
+	margin-left: 10%;
+}
+
+#image5 {
+	margin-left: 12%;
+	width: 290px;
+	height: 150px
+}
+
+#image6 {
+	width: 200%;
+	height: 200%;
+	margin-left: 89%;
+}
 .titre {
 	font-size: 90%;
 	margin-left: 10%;
@@ -138,12 +166,10 @@ nav li a {
 .couleur14 {
 	background-color: gold;
 }
-body {
-	background-image: url(http://charpente-heid.com/gifs/fond.jpg)
-}
+
 
 p {
-	color: silver;
+	color: ;
 	font-size: 75%;
 	margin-left: 10%;
 }
@@ -175,4 +201,14 @@ li {
 
 .pp3 {
 	margin-right: 10%;
+	font-size: 105%;
 }
+
+body {
+	background-color: black;
+}
+
+#lien_lagarde {
+	margin-left: 45%;
+}
+
