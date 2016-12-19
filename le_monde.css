@@ -245,54 +245,25 @@ li {
 	margin-left: 45%;
 }
 
-#lien_valls {
+#lien_scientifique{
 	margin-left: 35%;
 }
 
-#lien-demantelement {
-	margin-left: 45%;
+#lien_politique {
 	margin-top: 10%;
-}
-
-#lien-venezuela {
-	margin-top: 10%;
-	margin-left: 35%;
-}
-
-#lien-mariage {
-	margin-top: 5%;
 	margin-left: 45%;
 }
-
-#lien-trump {
+#lien_politiquefr {
 	margin-top: 10%;
 	margin-left: 35%;
 }
 
-#annonce-auto {
-	background-color: white;
-	margin-top: 20%;
-	font-weight: bold;
-	font-size: 150%;
-	margin-left:16%;
-	
-}
+#lien_alep {
+	margin-top: 10%;
+	margin-left: 45%;
 
-#annonce-immo {
-	background-color: grey;
-	margin-top: 20%;
-	font-weight: bold;
-	font-size: 150%;
-	
 }
-
-#annonce-emploi {
-	margin-top: 15%;
-	font-weight: bold;
-	font-size: 150%;
-}
-}
-
-#annonces {
-	background-color: grey;
+#lien_eta {
+	margin-top: 10%;
+	margin-left: 35%;
 }
