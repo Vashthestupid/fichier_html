@@ -286,6 +286,7 @@ li {
 	font-size: 10px;
 	border-left: 1px solid #626a72;
 	border-top: none;
+	cursor: pointer;
 }
 
 .button1:hover {
@@ -297,12 +298,14 @@ li {
 {
 	background-color: gold;
 	color: black;
+	cursor: pointer;
 }
 
 .menuderoulant
 {
 	background: #17222B;
 	color: white;
+	cursor : pointer;
 	text-align: center;
 }
 .menu{
@@ -334,4 +337,11 @@ li {
 #home:hover {
 	background-color: #BBBDBF;
 	border-top-color:;
+}
+
+.recherche {
+	margin-left: 1.5%;
+	border: none;
+	box-sizing: 50%;
+	cursor: pointer;
 }
