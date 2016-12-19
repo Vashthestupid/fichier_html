@@ -1,9 +1,3 @@
-h1 {
-	background-color: black;
-	text-align: center;
-	color: silver;
-	font-family: Times New Roman, italic;
-}
 
 h4 {
 	margin-left	: 11%;
@@ -89,6 +83,48 @@ h3 {
 	width: 200%;
 	height: 200%;
 	margin-left: 89%;
+}
+
+#image7 {
+	width: 200%;
+	height: 200%;
+	margin-left: 50%;
+}
+
+#image8 {
+	width: 200%;
+	height: 200%;
+	margin-top: 30%;
+	margin-left: 89%;
+}
+
+#image9 {
+	width: 200%;
+	height: 200%;
+	margin-top: 30%;
+	margin-left: 50%;
+	
+}
+
+#image10 {
+	width: 200%;
+	height: 200%;
+	margin-top: 30%;
+	margin-left: 89%;
+}
+
+#image11 {
+	width: 200%;
+	height: 200%;
+	margin-top: 30%;
+	margin-left: 50%;
+}
+
+#image12 {
+	width: 200%;
+	height: 200%;
+	margin-top: 30%;
+	
 }
 .titre {
 	font-size: 90%;
@@ -204,11 +240,59 @@ li {
 	font-size: 105%;
 }
 
-body {
-	background-color: black;
-}
 
 #lien_lagarde {
 	margin-left: 45%;
 }
 
+#lien_valls {
+	margin-left: 35%;
+}
+
+#lien-demantelement {
+	margin-left: 45%;
+	margin-top: 10%;
+}
+
+#lien-venezuela {
+	margin-top: 10%;
+	margin-left: 35%;
+}
+
+#lien-mariage {
+	margin-top: 5%;
+	margin-left: 45%;
+}
+
+#lien-trump {
+	margin-top: 10%;
+	margin-left: 35%;
+}
+
+#annonce-auto {
+	background-color: white;
+	margin-top: 20%;
+	font-weight: bold;
+	font-size: 150%;
+	margin-left:16%;
+	
+}
+
+#annonce-immo {
+	background-color: grey;
+	margin-top: 20%;
+	font-weight: bold;
+	font-size: 150%;
+	
+}
+
+#annonce-emploi {
+	margin-top: 15%;
+	font-weight: bold;
+	font-size: 150%;
+}
+}
+
+#annonces {
+	background-color: grey;
+}
